@@ -3,7 +3,7 @@
 # Report
 # 1) Introduction/Business Problem
 Introduction where you discuss the business problem and who would be interested in this project.
-The main reason of this project is to help people who are planning to open a restaurant in the Toronto area. This study provides data about the competitors, population and income in different neighborhoods in Toronto
+# The main reason of this project is to help people who are planning to open a restaurant in the Toronto area. This study provides data about the competitors, population and income in different neighborhoods in Toronto
 # 2) Downloading and Prepping Data
 Data where you describe the data that will be used to solve the problem and the source of the data.
 # In order to provide the necessary data for this study I have used the population and the average income per neighborhood from Toronto’s 2016 Census. This information then has been combined with Foursquare API and Toronto’s neighborhood shape file to store data on competitors within the same area.
